@@ -1,16 +1,22 @@
-## Hi there 👋
+# S M Zihad Ibna Zakir
 
-<!--
-**SMZihad/SMZihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Technology student based in Malaysia, focused on full-stack web development and problem solving. Seeking a **software engineering internship starting April 2027**.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, C++ |
+| **Core Concepts** | Data Structures & Algorithms, Object-Oriented Programming |
+| **Tools** | Git, GitHub |
+
+## Focus Areas
+
+- Full-stack web application development
+- Data structures and algorithms
+- Clean, maintainable, version-controlled code
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/s-m-zihad-ibna-zakir-7956ab291)
+- [Email](mailto:zihadzakir872@gmail.com)
